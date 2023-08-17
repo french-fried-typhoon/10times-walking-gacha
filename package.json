@@ -1,0 +1,23 @@
+{
+  "name": "10times-walking-gacha",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "lodash-es": "^4.17.21",
+    "normalize.css": "^8.0.1",
+    "postcss-nested": "^5.0.6",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}
